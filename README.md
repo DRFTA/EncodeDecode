@@ -1,9 +1,6 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 EncodeDecode Streamlit App  
 
-Description of the app ...
+EncodeDecode text using sha256 with a password
 
 ## Demo App
 
